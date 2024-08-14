@@ -691,7 +691,9 @@
 		
 		"uniques": ["Starts with [Dwarven Ingenuity]","Starts with [Chaos]","Comment [Dwarven]", "Units ignore terrain costs when moving into any tile with Hills"
 		// , "Land units may cross [Mountain] tiles aft5er the first [Great Person] is earned"
-		// To balance, suggest affter archdemon is summoned or tech for hellgate built
+		// , "Land units may cross [Mountain] tiles <with a Gateway>"
+		// To change balance, suggest after archdemon is summoned or tech for hellgate built
+		// It would stop the effect if the archdemon Kor'ash is killed givnig great incentive
 		],
 		"cities": ["Zharr-Naggrund","Gates of Zharr","Uzkulak","Gorgoth","Daemon's Stump","Black Fortress","Vorag","Gash Kadrak"],
 
