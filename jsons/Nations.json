@@ -689,7 +689,10 @@
 		"hateHello": "Shame on you.",
 		"tradeRequest": "I offers you this exceptional proposition.",
 		
-		"uniques": ["Starts with [Dwarven Ingenuity]","Starts with [Chaos]","Comment [Dwarven]"],
+		"uniques": ["Starts with [Dwarven Ingenuity]","Starts with [Chaos]","Comment [Dwarven]", "Units ignore terrain costs when moving into any tile with Hills"
+		// , "Land units may cross [Mountain] tiles aft5er the first [Great Person] is earned"
+		// To balance, suggest affter archdemon is summoned or tech for hellgate built
+		],
 		"cities": ["Zharr-Naggrund","Gates of Zharr","Uzkulak","Gorgoth","Daemon's Stump","Black Fortress","Vorag","Gash Kadrak"],
 
 		"civilopediaText": [
